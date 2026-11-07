@@ -1,0 +1,32 @@
+[
+  {
+    "file": "GUS-North-Georgia-Windows-Demo.zip.001",
+    "bytes": 1900000000,
+    "sha256": "d18e009341d15426dc5b46e26b1a0197f66a1fc11c1fc852773c47d650390107"
+  },
+  {
+    "file": "GUS-North-Georgia-Windows-Demo.zip.002",
+    "bytes": 939021104,
+    "sha256": "ffb4cae626c28f4b2860a2eacfd28606d7f002e4ccfca5ed045f05f0271e8eaf"
+  },
+  {
+    "file": "GUS-North-Georgia-Windows-Demo.zip",
+    "bytes": 2839021104,
+    "sha256": "084a377c119b7a589c3e7f49ea1688e95890471308c94b66081b6c4a71cf70cd",
+    "extracted_bytes": 4047953754,
+    "files": 7421,
+    "reassembled": true
+  },
+  {
+    "file": "GUS-DIY-Windows-Demo.zip",
+    "bytes": 1185869647,
+    "sha256": "40ece1f901fa84201d90e8eea4779959636ce4f3446349fdf08f8da48bb75da0",
+    "extracted_bytes": 1624838198,
+    "files": 4259
+  },
+  {
+    "file": "GUS-North-Georgia-Android-v53.apk",
+    "bytes": 1602697068,
+    "sha256": "0a484a7e3d4368ec5a186007ba52430c148bd95654906b8a451ccb3e1013374d"
+  }
+]
