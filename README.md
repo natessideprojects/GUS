@@ -1,6 +1,6 @@
 # GUS Drive demo website
 
-Website for https://gusdrive.com, hosted on Vercel from questforgelitrpg/GUS.
+Website for https://gusdrive.com, hosted on Vercel from natessideprojects/GUS.
 
 The full demo binaries belong in GitHub Releases, not Git history or the Vercel deployment. The website distinguishes North Georgia Windows/Android from DIY Windows; DIY Android is not supplied.
 
